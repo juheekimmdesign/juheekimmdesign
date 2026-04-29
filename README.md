@@ -1,4 +1,11 @@
 ## Hi there 👋
+### 웹 퍼블리셔 · 웹 디자이너 김주희입니다.
+
+### Skill
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white 	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge https://img.shields.io/badge/Adobe%20After%20Effects-99F?logo=adobeaftereffects&logoColor=fff&style=for-the-badge https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=for-the-badge
+
+
 
 <!--
 **juheekimmdesign/juheekimmdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
